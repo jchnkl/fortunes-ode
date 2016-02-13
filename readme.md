@@ -1,4 +1,3 @@
-```
                       Ode
             by Arthur O'Shaughnessy
 
@@ -82,6 +81,5 @@
     70  And things that we dreamed not before:
         Yea, in spite of a dreamer who slumbers,
         And a singer who sings no more.
-```
 
-from [Wikisource](https://en.wikisource.org/wiki/Ode_(O'Shaughnessy\))
+from [Wikisource](https://en.wikisource.org/wiki/Ode_(O'Shaughnessy))
